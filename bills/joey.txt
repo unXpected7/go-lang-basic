@@ -1,0 +1,6 @@
+Bill breakdown 
+pizza hotdog:             ... $55 
+pepsi:                    ... $10 
+--------------------      
+tips:                     ... $5 
+total price::             ... $70.00
